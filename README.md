@@ -1,3 +1,21 @@
+<h1 align="center"><a href="https://github.com/MahmodulRatul/Data-Table-CRUD-Operation" target="_blank"> Database Seeding and CRUD operation using Laravel 9 with Bootstrap 4.</a></h1>
+
+This is a laravel application for seeding database and show seeded data in front-end using modern data table and performing CRUD operation from front-end.
+
+## Application Features
+
+-   [x] Data Seeder
+-   [x] Front-End View
+-   [x] Search Option in Front-End
+-   [x] Sort Option in Front-End
+-   [x] Pagination
+-   [x] Each-Page Row Limit
+-   [x] Edit Row
+-   [x] Create Row
+-   [x] Delete Row
+-   [x] Sweet Alert
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
